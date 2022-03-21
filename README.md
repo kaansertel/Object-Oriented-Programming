@@ -14,7 +14,7 @@ b) bir double matrisinin elemanlarını ekrana yazınız.
 - While döngüsü kullanarak 
 a) bir String dizinin 5. elemanına kadar olan değerleri ekrana yazınız.
 b) bir double dizisinin ilk 4 elemanının toplamını ekrana yazınız.
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum1/soru1)
 ###### `Ekran Çıktısı:`
 ![Bölüm1Soru1](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm1Soru1.png)
@@ -23,7 +23,7 @@ b) bir double dizisinin ilk 4 elemanının toplamını ekrana yazınız.
 - For döngüsü kullanarak bir integer matrisinin elemanlarını tek satırlar için 1 çift sayıya 
 karşılık gelen satırlar için -1 yapan fonksiyonu yazınız. Bu matrisin tüm elemanlarını (değerleri) 
 bulundukları satır ve sütün ile birlikte ekrana yazan fonksiyonu yazınız.
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum1/soru2)
 ###### `Ekran Çıktısı:`
 ![Bölüm1Soru2](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm1Soru2.png)
@@ -36,7 +36,7 @@ a) ½ + 4/2
 b) 5/x * 4/x x değeri kullanıcı tarafından belirlenecektir.
 c) 7/4 - 5/6
 Yukarıdaki hesaplamalar için ekrana sonucu pay/payda şeklinde yazan programı yazınız.
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum1/soru3)
 ###### `Ekran Çıktısı:`
 ![Bölüm1Soru3](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm1Soru3.png)
@@ -52,7 +52,7 @@ b) Bu otopark nesnesi için 3 araç parka geldikten sonra boş ve dolu yerlerin 
 fonksiyonu ekleyiniz.
 c) Bu otopark nesnesi için 25 araç parka geldikten sonra boş ve dolu yerlerin indislerini ekrana basan 
 fonksiyonu ekleyiniz.
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum1/soru4)
 ###### `Ekran Çıktısı:`
 ![Bölüm1Soru4](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm1Soru4.png)
@@ -66,7 +66,7 @@ a) Bu otoparkta 5 minibüs için yer almıştır ve 3 minibüs ve 15 otomobil ge
 alanların indislerini ekrana yazınız.
 a) Bu otoparkta 20 minibüs için yer almıştır ve 10 minibüs ve 2 otomobil geldiğinde dolu ve boş olan 
 alanların indislerini ekrana yazınız.
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum1/soru5)
 ###### `Ekran Çıktısı:`
 ![Bölüm1Soru5](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm1Soru5.png)
@@ -78,7 +78,7 @@ cevaplarını paylaşabilmektedir. Bu şekilde bir kopya çekildiğinde aynı ki
 rastgele birbirlerinden kopya çeksinler. Örneğin Ahmet Mehmet’ten, Özge Mert’ten, Mert’te Ahmet’ten, 
 Can ise Hakan’dan kopya çekin. Bu şekilde 30 öğrencinin yarısının (15) rastgele başka bir kişiden kopya 
 çekitiğini düşünün. En çok kopya çekilen öğrenciyi bulan programı yazınız.
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum1/soru6)
 ###### `Ekran Çıktısı:`
 ![Bölüm1Soru6](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm1Soru6.png)
@@ -101,7 +101,7 @@ fonksiyon aşağıdaki şekilde çağrılmalıdır.
 //10 adet kuş, 4 adet kuala, ve 8 adet zebra barındıran hayvanat bahçesi
 HayvanatBahcesi hayvanatBahcesi = new HayvanatBahcesi(10, 4, 8);
 hayvanatBahcesi.sesCıkart();
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum2/soru1)
 ###### `Ekran Çıktısı:`
 ![Bölüm2Soru1](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm2Soru1.png)
@@ -111,7 +111,7 @@ hayvanatBahcesi.sesCıkart();
 static olarak bir yaratıcı fonksiyon yazınız. Bu static fonksiyon nesne daha önce yaratıldıysa bu yaratılan 
 nesneyi döndürsün yeni bir Araba nesnesi yaratmasın. 
 Örnek : Araba araba = Araba.yarat(); //singleton sınıf
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum2/soru2)
 
 
@@ -131,8 +131,10 @@ ArrayList<Personel> personeller = new ArrayList();
 //...Personel ekle...//
 Collections.sort(personeller); 
 }
-###### `Kod (Hızlı Erişirim):`
+ 
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum2/soru3)
+ 
 ###### `Ekran Çıktısı:`
 ![Bölüm2Soru3](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm2Soru3.png)
 
@@ -154,7 +156,7 @@ Boolean[][] matrix = new Boolean[2][5];
 matrix[0][0] = true; matrix[0][1] = true; matrix[0][2] = false; 
 String[] referansKodlari = new String[5];
 Hesap[] hesaplar = new Hesap[3];
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum3/Soru2)
 ###### `Ekran Çıktısı:`
 ![Bölüm3Soru2](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm3Soru2.png)
@@ -165,7 +167,7 @@ Hesap[] hesaplar = new Hesap[3];
 tanımladığınız her bir sınıf için değerleri ekrana basan metodu yazınız. Örnek main metodunda bu tipleri 
 birer birer tanımlayarak ekrana basan programı yazınız.
 ![Primitive](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/PrimitiveJavaTipleri.png)
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum3/Soru3)
 ###### `Ekran Çıktısı:`
 ![Bölüm3Soru3](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm3Soru3.png)
@@ -197,7 +199,7 @@ private int hexChar(char ch){
  return ch - '0';
  }
 }
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum3/Soru4)
 ###### `Ekran Çıktısı:`
 ![Bölüm3Soru4](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm3Soru4.png)
@@ -205,7 +207,7 @@ private int hexChar(char ch){
 - Taş, Kağıt ve Makas oyunu için Hareket ve Kişi sınıfları tanımlayarak 100 defa rastgele 
 iki kişi arasında oyunu oynayan bir simulasyon programı yazınız. Sonuçta kimin kazandığını bu oyunda 
 ekrana yazınız.
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum3/Soru5)
 ###### `Ekran Çıktısı:`
 ![Bölüm3Soru5](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm3Soru5.png)
@@ -214,7 +216,7 @@ ekrana yazınız.
 ##### `Soru 1:`
 -  Aşağıda UML Class diyagramı verilen sınıfları yazınız.
 ![UML Class](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/UMLClass.png)
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum4/soru1)
 
 ##### `Soru 2:`
@@ -251,7 +253,7 @@ public static void main(String[] args){
 Bu main için örnek ekran çıktısı aşağıda verilmiştir.
 Donusturulmek istenen sayi aslinda floating point sayisi
 Donusturulmek istenen sayi cok buyuk
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum4/soru2)
 ###### `Ekran Çıktısı:`
 ![Bölüm4Soru2](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm4Soru2.png)
@@ -262,7 +264,7 @@ olacak şekilde Java programlama dilinde uygulayınız.
 Not: Bazı değişken türleri ve erişim anahtarları boş bırakılmıştır. Kod içerisinde bunları uygun olacak 
 şekilde yazınız.
 ![UML](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/UML.png)
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum4/soru3)
 
 
@@ -286,7 +288,7 @@ Sıralama için 3 sınıf yazınız bunlar
 i) Yer değişkenine göre sıralayacak.
 ii) Yıl değişkenine göre sıralayacak.
 iii) Önce yer sonra yıl değişkenine göre sıralayacak. Not: Bunun için ilk iki sınıf kullanılabilir.
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum4/soru4)
 ###### `Ekran Çıktısı:`
 ![Bölüm4Soru4](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm4Soru4.png)
@@ -296,7 +298,7 @@ iii) Önce yer sonra yıl değişkenine göre sıralayacak. Not: Bunun için ilk
 zamanda kullanıcının klavyede bastığı tuşları dinleyerek Q tuşuna basıldığında program sonlansın. Q tuşuna 
 basılmadığı taktirde sürekli hiç müdahale olmaksızın ekrana sayılar yazsın. Programı sonlandırmak için
 System.exit(0) fonksiyonunu kullanabilirsiniz.
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum4/soru5)
 
 ##### `Soru 6:`
@@ -304,7 +306,7 @@ System.exit(0) fonksiyonunu kullanabilirsiniz.
 zamanda Neo ve Smith adında iki alt sınıftan oluşmaktadır. Neo oyunu sadece Tas ve Makas ile oynarken 
 Smith oyunu Tas ve Kağıt ile oynamaktadır. N defa rastgele Neo ve Smith arasında oyunu oynayan bir 
 simulasyon programı yazınız. Sonuçta kimin kazandığını bu oyunda ekrana yazınız.
-###### `Kod (Hızlı Erişirim):`
+###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum4/soru6)
 ###### `Ekran Çıktısı:`
 ![Bölüm4Soru6](https://github.com/kaansertel/Object-Oriented-Programming/blob/main/images/B%C3%B6l%C3%BCm4Soru6.png)
