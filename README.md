@@ -9,11 +9,17 @@ Nesne Yönelimli Programlama dersi kapsamında `Java` ile yapılmış konu bazl�
 
 ##### `Soru 1:`
 - For döngüsü kullanarak 
+- 
 a) bir String dizinin tüm elemanlarını ekrana yazınız.
+
 b) bir double matrisinin elemanlarını ekrana yazınız.
+
 - While döngüsü kullanarak 
+- 
 a) bir String dizinin 5. elemanına kadar olan değerleri ekrana yazınız.
+
 b) bir double dizisinin ilk 4 elemanının toplamını ekrana yazınız.
+
 ###### `Kod (Hızlı Erişim):`
 - [Koda gitmek için tıklayınız](https://github.com/kaansertel/Object-Oriented-Programming/tree/main/Bolum1/soru1)
 ###### `Ekran Çıktısı:`
